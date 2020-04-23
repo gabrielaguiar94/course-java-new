@@ -17,12 +17,6 @@ public class AccountEx1 {
 		deposit(initialDeposit);
 	}
 
-	
-//	public AccountEx1(int number, String holder, double initialDeposit) {
-//		this.number = number;
-//		this.holder = holder;
-//		deposit(initialDeposit);
-//	}
 
 	public int getNumber() {
 		return number;
