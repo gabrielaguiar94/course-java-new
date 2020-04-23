@@ -6,6 +6,7 @@ public class Main {
 		
 		System.out.println("Bom dia");
 		System.out.println("Boa Noite");
+		System.out.println("Tchau");
 		String nome = "Maria";
 		int idade = 31;
 		double renda = 4000.0;
