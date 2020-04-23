@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("Bom dia");
-
+		System.out.println("Boa Noite");
 		String nome = "Maria";
 		int idade = 31;
 		double renda = 4000.0;
